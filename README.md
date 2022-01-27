@@ -30,12 +30,12 @@ Zadnja faza je obrana projekta - nakon završetka finalne verzije svoje aplikaci
 
 # Opis projekta
 ## Kratki opis
-Ovdje ide opis projekta
+Napravit ću projekt za pretragu Državnih Arhiva u Hrvatskoj. Korisnik bi se mogao prijaviti u sustav te tražiti koji dokumenti/knjige se nalaze u kojoj arhivi, je li dokument dostupan u arhivi i/ili je li korisnik ima pravo pregledati dokument. Također bi mogao pretraživati dokumente po karakteristikama, npr. autoru, gradu, arhivi itd.
 ## Tehnologije
-1. Frontend
-2. Backend
-3. Baza
+1. Frontend - React
+2. Backend - Express
+3. Baza - Mongo
 ## Popis funkcionalnosti
-1. a
-2. b
-3. c
+1. Prijava u sustav
+2. Iščitavanje popisa dokumenata iz baze
+3. Pretraga po različitim karakteristikama
