@@ -33,3 +33,5 @@ Pocetak | Kraj
 Napravljen logout, login
 Izrada kostura glavne stranice
 Zabrana pregleda glavne stranice ako korisnik nije prijavljen => posalje na login
+12:30: Početak izrade arhive
+Napravljen backend za arhivu
